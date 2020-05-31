@@ -4,7 +4,7 @@ This project is about building the Automatic Extractive Text Summarization Syste
 This dataset for extractive text summarization has four hundred and seventeen political news articles of BBC from 2004 to 2005 in the News Articles folder.
 The dataset consists of 5 categories of news articles namely Business, Entertainment, Politics, Sports, Tech. We will build and test our model on Business news articles.
 
-##Preprocessing the Data
+## Preprocessing the Data
 
 After importing all the articles from the text files under Business folder, we preprocess the data by doing the following:
 
